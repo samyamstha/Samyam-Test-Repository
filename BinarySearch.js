@@ -38,6 +38,9 @@ var result = doSearch(primes, 1);
 
 console.log("Found prime at index " + result);
 console.log(count);
+
+
+
 // Program.assertEqual(doSearch(primes, 73), 20);
 // Program.assertEqual(doSearch(primes, 2), 0);
 // Program.assertEqual(doSearch(primes, 97), 24);
