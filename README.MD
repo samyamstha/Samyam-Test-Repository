@@ -1,4 +1,4 @@
-#Git Commands
+# Git Commands
 
 * git status ---> Tells what files haven't been staged
 * git add ---> To stage changes or new files
